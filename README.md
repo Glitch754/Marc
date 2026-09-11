@@ -22,32 +22,21 @@ The majority of my life was around technology, and so, because of the time aroun
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![OpenSSH](https://img.shields.io/badge/OpenSSH-black?style=for-the-badge)](https://www.openssh.com/)
  
-- **Nmap** — scan/verify both machines and services on the LAN
-- **Wireshark** — packet capture, useful for troubleshooting/proving traffic between coordinator and agents
-- **OpenSSH** — secure remote access/management of the server
 ## Virtualization
 [![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com/en/proxmox-virtual-environment/overview)
  
-- **Proxmox VE** — hypervisor for the server ([docs](https://pve.proxmox.com/pve-docs/))
 ## Operating Systems
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
  
-- **Kali Linux** — main PC, security tooling + GPU drivers
-- **Debian** — lightweight VM for the coordinator
 ## Distributed Hash Cracking
 [![Hashcat](https://img.shields.io/badge/Hashcat-black?style=for-the-badge)](https://hashcat.net/hashcat/)
 [![Hashtopolis](https://img.shields.io/badge/Hashtopolis-black?style=for-the-badge)](https://github.com/hashtopolis/server)
  
-- **Hashcat** — the cracking engine, CPU + GPU
-- **Hashtopolis** — coordinator/server that distributes jobs across agents ([docs](https://docs.hashtopolis.org), [web UI](https://github.com/hashtopolis/web-ui))
-- **Hashtopolis Python Agent** — runs on each cracking node — https://github.com/hashtopolis/agent-python
 ## Web Dashboard
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
- 
-- **Python** — core language for agents + dashboard
-- **Flask** — lightweight web framework for the status dashboard
+
 
 ## Certifications
 
