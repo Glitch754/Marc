@@ -1,5 +1,5 @@
 # Hello, I'm Marc
-<a href="https://linkedin.com"><"https://linkedin.com">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Gl17ch)
 
 I am a highschool student in Romania with a interest in technology and cybersecurity who will make homelabbing projects and post them here ^0^
 
@@ -10,9 +10,11 @@ The majority of my life was around technology, and so, because of the time aroun
 ## Skills 
 
 | Skill | Associated Project |
-|------ | ------------------ |
-|  Due  |        Due         |
-
+|-------|---------------------|
+| Virtualization (Proxmox VE) | [Distributed Hash-Cracking Cluster](https://github.com/Glitch754/Distributed-Hash-Cracking-Cluster) |
+| Distributed Systems | [Distributed Hash-Cracking Cluster](https://github.com/Glitch754/Distributed-Hash-Cracking-Cluster) | Python | [Distributed Hash-Cracking Cluster](https://github.com/Glitch754/Distributed-Hash-Cracking-Cluster) |
+| Linux Administration | [Distributed Hash-Cracking Cluster](https://github.com/Glitch754/Distributed-Hash-Cracking-Cluster) |
+| Networking & Security Tooling | [Distributed Hash-Cracking Cluster](https://github.com/Glitch754/Distributed-Hash-Cracking-Cluster) |
 ## Tools
 
 ## Networking
@@ -63,12 +65,5 @@ to split jobs across both machines' CPU/GPU resources.
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white)
 
-**Highlights:**
-- Built a Proxmox VE hypervisor from a bare-metal server to host the coordinator and dashboard as isolated VMs
-- Distributed cracking jobs across two machine's CPU and GPU using Hashcat + Hashtopolis agents
-- Built a Flask dashboard for live job status and cracked-hash history
-- Followed a documented network setup (static IPs, Nmap-verified connectivity) and ethical-use guidelines (own hashes / permitted practice sets only)
-
- [Repository](your-repo-link-here) ·  [Architecture write-up](your-readme-link-here)
-
+ [Repository](https://github.com/Glitch754/Distributed-Hash-Cracking-Cluster/tree/main) ·
 **Status:** In progress
